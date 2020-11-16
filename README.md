@@ -1,3 +1,5 @@
-# boom
-wang
-this
+# Bomberman game
+
+Made for the POO class in ISEL
+
+![Bomberman](bomber.png)
