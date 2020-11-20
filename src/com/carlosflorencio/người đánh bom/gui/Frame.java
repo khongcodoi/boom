@@ -83,5 +83,5 @@ public class Frame extends JFrame {
 	public void changeLevelByCode(String str) {
 		_game.getBoard().changeLevelByCode(str);
 	}
-	
+	//ok
 }
