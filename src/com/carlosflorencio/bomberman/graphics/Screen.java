@@ -155,3 +155,4 @@ public class Screen {
 		return _height * Game.SCALE;
 	}
 }
+//end
