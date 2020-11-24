@@ -49,8 +49,8 @@ public class Help extends JMenu {
 				  new InfoDialog(_frame, "How to Play", "Movement: W,A,S,D or UP,DOWN, RIGHT, LEFT\nPut Bombs: SPACE, X", JOptionPane.QUESTION_MESSAGE);
 			  }
 				  
-			  if(e.getActionCommand().equals("About")) {
-				  new InfoDialog(_frame, "About", "Version: " + Game.VERSION + "\n Author: Carlos Florêncio\n Website: www.carlosflorencio.com", JOptionPane.INFORMATION_MESSAGE);
+			  if(e.getActionCommand().equals("About:quang")) {
+				  new InfoDialog(_frame, "About", "Version: " + Game.VERSION + "\n Author: Carlos FlorÃªncio\n Website: www.carlosflorencio.com", JOptionPane.INFORMATION_MESSAGE);
 			  }
 			  
 		  }
