@@ -34,7 +34,7 @@ public abstract class Entity implements IRender {
 	public double getX() {
 		return _x;
 	}
-	
+	//ok
 	public double getY() {
 		return _y;
 	}
