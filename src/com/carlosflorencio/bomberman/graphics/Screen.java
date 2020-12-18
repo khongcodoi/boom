@@ -1,5 +1,5 @@
 package com.carlosflorencio.bomberman.graphics;
-//ok
+
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.FontMetrics;
@@ -125,8 +125,8 @@ public class Screen {
 	public void drawPaused(Graphics g) {
 		Font font = new Font("Arial", Font.PLAIN, 20 * Game.SCALE);
 		g.setFont(font);
-		g.setColor(Color.white);
-		drawCenteredString("PAUSED", getRealWidth(), getRealHeight(), g);
+		g.setColor(Color.black);
+		drawCenteredString("Pause", getRealWidth(), getRealHeight(), g);
 		
 	}
 	
@@ -155,4 +155,3 @@ public class Screen {
 		return _height * Game.SCALE;
 	}
 }
-//end

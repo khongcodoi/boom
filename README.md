@@ -1,3 +1,2 @@
-# This is Quang game 
+#This is Quang game
 #Are you ok.
-
