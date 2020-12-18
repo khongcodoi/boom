@@ -1,5 +1,3 @@
-# Bomberman game
+# This is Quang game 
+#Are you ok.
 
-Made for the POO class in ISEL
-
-![Bomberman](bomber.png)
